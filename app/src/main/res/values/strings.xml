@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewMergeAdapter</string>
+    <string name="position" translatable="false">position</string>
+</resources>
